@@ -1,1 +1,0 @@
-# terraform-azure-gitlab-runner-docker-autoscaler
